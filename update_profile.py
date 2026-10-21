@@ -17,8 +17,8 @@ from datetime import date, datetime, timezone
 # PROFILE CONFIGURATION
 # ==============================================================================
 USER = "abibhaskara"
-BIRTHDAY = date(2008, 1, 1)  # Sesuaikan dengan tanggal lahir Anda
-JOINED_YEAR = 2025           # Tahun akun GitHub dibuat
+BIRTHDAY = date(2009, 1, 15)  # Sesuaikan dengan tanggal lahir Anda
+JOINED_YEAR = 2024          # Tahun akun GitHub dibuat
 W = 56                       # Lebar kolom info dalam karakter
 
 # ASCII Art portrait / logo (lebar ~38-42 karakter, tinggi ~27-28 baris)
