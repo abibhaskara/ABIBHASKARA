@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
-<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="422" viewBox="0 0 840 422" font-family="Consolas, Menlo, monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="839" height="421" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="40" fill="#8b949e" xml:space="preserve">#+#%##%%%#+:.-:        *@@@@@@@@@@@@@@@@</text>
 <text x="25" y="55" fill="#8b949e" xml:space="preserve">@*#%##%%%#+::-:        *@@@@@@@@@@@@@@@@</text>
 <text x="25" y="70" fill="#8b949e" xml:space="preserve">@*#%%%%%%%+-:-:        *@@@@@%%%##%%%%%%</text>
@@ -24,16 +24,14 @@
 <text x="390" y="45" xml:space="preserve"><tspan fill="#58a6ff">abibhaskara@github </tspan><tspan fill="#484f58">─────────────────────────────────────</tspan></text>
 <text x="390" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................................. </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
 <text x="390" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">17 years, 9 months, 6 days</tspan></text>
-<text x="390" y="129" xml:space="preserve"><tspan fill="#ffa657">Role: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">Student Researcher</tspan></text>
-<text x="390" y="150" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">VS Code, Antigravity</tspan></text>
-<text x="390" y="192" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">JavaScript, Python, HTML/CSS</tspan></text>
-<text x="390" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Human: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Indonesian, English</tspan></text>
-<text x="390" y="234" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#c9d1d9">Research, System Design</tspan></text>
-<text x="390" y="276" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
-<text x="390" y="297" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">hello@abibhaskara.com</tspan></text>
-<text x="390" y="318" xml:space="preserve"><tspan fill="#ffa657">Website: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">abibhaskara.com</tspan></text>
-<text x="390" y="360" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
-<text x="390" y="381" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">16 {Contributed: 2}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="390" y="402" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">247</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">2</tspan></text>
-<text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">101,493</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">128,966++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">27,473--</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="390" y="150" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">JavaScript, Python, HTML/CSS</tspan></text>
+<text x="390" y="171" xml:space="preserve"><tspan fill="#ffa657">Languages.Human: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Indonesian, English</tspan></text>
+<text x="390" y="192" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#c9d1d9">Research, System Design</tspan></text>
+<text x="390" y="234" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
+<text x="390" y="255" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">hello@abibhaskara.com</tspan></text>
+<text x="390" y="276" xml:space="preserve"><tspan fill="#ffa657">Website: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">abibhaskara.com</tspan></text>
+<text x="390" y="318" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="390" y="339" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">16 {Contributed: 2}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">0</tspan></text>
+<text x="390" y="360" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">247</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">2</tspan></text>
+<text x="390" y="381" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">101,493</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">128,966++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">27,473--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>

@@ -247,8 +247,6 @@ def info_lines(s):
         [],
         kv("OS", "macOS"),
         kv("Uptime", f"{y} years, {m} months, {d} days"),
-        kv("Role", "Student Researcher"),
-        kv("IDE", "VS Code, Antigravity"),
         [],
         kv("Languages.Programming", "JavaScript, Python, HTML/CSS"),
         kv("Languages.Human", "Indonesian, English"),
@@ -275,10 +273,18 @@ def info_lines(s):
 
 def render(mode, stats):
     p = PALETTES[mode]
+    art_lines = ART.strip("\n").split("\n")
+    info = info_lines(stats)
+
+    # Dynamic height based on content to eliminate empty space at the bottom
+    art_bottom = 40 + len(art_lines) * 15
+    info_bottom = 45 + len(info) * 21
+    height = max(art_bottom, info_bottom) + 20
+
     out = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" '
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="840" height="{height}" viewBox="0 0 840 {height}" '
         'font-family="Consolas, Menlo, monospace" font-size="13px">',
-        f'<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
+        f'<rect x="0.5" y="0.5" width="839" height="{height - 1}" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
     ]
     # Draw ASCII art on left side
     for i, line in enumerate(ART.strip("\n").split("\n")):
